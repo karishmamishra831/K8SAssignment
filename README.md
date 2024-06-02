@@ -1,6 +1,7 @@
 #Git hub link for source code, main branch contains two folder: 
 #K8S_yaml
 #source_code
+
 Link for the code repository.
 •https://github.com/karishmamishra831/K8SAssignment
 
@@ -15,4 +16,4 @@ URL for Service API tier to view the records from backend tier.
 
 
 Link for screen recording video showing everything mentioned above.
-•
+•https://drive.google.com/drive/folders/1mJJLgqBKtHY26HEpSvIT1R5dNeu58f0V?usp=sharing
